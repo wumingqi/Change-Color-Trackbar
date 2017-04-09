@@ -1,4 +1,5 @@
 #include "Function.h"
+//changes
 
 #define TRACKBAR_WIDTH	30					//»¬¿é¿í¶È
 
